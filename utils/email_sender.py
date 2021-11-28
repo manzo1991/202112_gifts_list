@@ -10,7 +10,7 @@ from typing import (
     List,
 )
 
-from secrets import DICT_PASSWORDS
+from utils.secrets import DICT_PASSWORDS
 
 
 def send_mail(

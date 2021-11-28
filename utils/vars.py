@@ -10,4 +10,3 @@ DES_CONTEXT = "Il <b>18/12/2021</b> ci sarà la nostra cena di Natale.<br/>" \
 LINK_AMAZON = "https://www.amazon.it/gcx/Regali-per-tutti/gfhz/?pd_rd_r=a98821ab-79d9-414a-9129-667d9973f1fd&pd_rd_w=5&pd_rd_wg=PeS19&pf_rd_p=afd8b3c3-d8ca-431d-9509-ca3d219204ea&pf_rd_r=75&qid=1638091187&scrollState=eyJpdGVtSW5kZXgiOjAsInNjcm9sbE9mZnNldCI6ODYuNTYyNX0%3D&sectionManagerState=eyJzZWN0aW9uVHlwZUVuZEluZGV4Ijp7ImFtYWJvdCI6MH19"
 
 FLG_TEST_MODE = True
-
