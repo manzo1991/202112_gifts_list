@@ -18,7 +18,7 @@ def send_mail(
         list_recipients: List,
         sender: str = DICT_PASSWORDS['sender'],
         list_recipients_copy: List = [],
-        subject: str = "Christmas Gifts List 2021",
+        subject: str = "Christmas Gifts List 2022",
         template_name: str = DICT_PASSWORDS['template_name'],
         smpt_server: str = DICT_PASSWORDS['smpt_server'],
         port_number_server: int = DICT_PASSWORDS['port_number_server'],
